@@ -6,6 +6,12 @@ body{
  height: 40px;
  width:100%;
  position: top;
+ top: 0px;
+ left: 0px;
+ right: 0px;
  font:Lucida Sans Unicode;
 }
-containerclass{
+.headeritem{
+ padding: 8px;
+}
+.containerclass{
