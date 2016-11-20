@@ -16,17 +16,19 @@ body{
   background-color:rgba(35,32,33,.73);
   bottom: 0px;
   position: fixed;
- color:rgb(0,255,0);
+  color:rgb(0,255,0);
+  left:0;
 }
 .sub{
   position:fixed;
   top:40px;
   left:10px;
 }
-.contmainer{
- margin: 80px 15% 40px 15%
-}
+
 .txt{
  color:rgb(0,255,0);
  font-family: Lucida Console;
+}
+.contmainer{
+ margin: 80px 15% 40px 15%
 }
