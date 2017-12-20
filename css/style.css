@@ -25,8 +25,8 @@ body{
 }
 
 .txt{
- color:rgb(0,255,0);
- font-family: arial;
+ color:#000000
+ font-family: Lucida console;
 }
 .contmainer{
  margin: 80px 15% 40px 15%
