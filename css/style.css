@@ -1,6 +1,5 @@
 body{
- background-color:#000000;
- color:rgb(0,255,0);
+ background-color:#ffff99;
 }
 .headerdiv{
   color: rgb(0, 255, 0);
@@ -27,7 +26,7 @@ body{
 
 .txt{
  color:rgb(0,255,0);
- font-family: Lucida Console;
+ font-family: arial;
 }
 .contmainer{
  margin: 80px 15% 40px 15%
