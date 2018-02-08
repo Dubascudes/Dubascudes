@@ -1,11 +1,9 @@
 body{
  background-color:#000000;
 }
-.txt{
- color:#ff0000
- font-family: sans-serif;
-}
+
 .contmainer{
+ font-family:sans-serif;
  background-color: #ffffff; 
  top:0;
  bottom: 0;
