@@ -13,6 +13,12 @@ body{
  position: absolute;
 
 }
+.rainbow{
+    color:white;
+    text-decoration:none;
+    font-style:italic;
+
+}
 .rainbow:hover{
 -webkit-animation:rainbow 1s infinite;
 -ms-animation:rainbow 1s infinite;
