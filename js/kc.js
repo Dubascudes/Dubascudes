@@ -9,7 +9,8 @@
                     if (keys.toString().indexOf(konami) >= 0) {
                         // do something when the konami code is executed
                           $window.location.replace("http://stackoverflow.com");
-                        // empty the array containing the key sequence entered by the user
+                          $console.log("sdsdfs");
+                         // empty the array containing the key sequence entered by the user
                         keys = [];
                     }
                 }
