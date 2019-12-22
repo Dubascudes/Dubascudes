@@ -80,7 +80,7 @@ animation:rainbow 1s infinite;
 .close{
   margin: 0px 0px 0px 0px;
 }
-
+/*
 @-webkit-keyframes rainbow {
 0% {color: #ff0000;}
 10% {color: #ff8000;}
@@ -133,3 +133,4 @@ animation:rainbow 1s infinite;
 90% {color: #8000ff;}
 100% {color: #ff0080;}
 }
+*/
