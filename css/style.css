@@ -74,7 +74,8 @@ animation:rainbow 1s infinite;
 
 /* On mouse-over */
 .sidenav a:hover, .dropdown-btn:hover {
-  color: #000000;
+  color: #fff7d7;
+  background-color: #000000;
 }
 
 .close{
@@ -85,10 +86,7 @@ a, a:hover{
   color: #fff7d7;
   text-decoration: none; /* no underline */
 }
-.sidenavbuttons:hover{
-  background-color: #000000;
-  color:#fff7d7;
-}
+
 /*
 @-webkit-keyframes rainbow {
 0% {color: #ff0000;}
