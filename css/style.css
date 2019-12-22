@@ -80,6 +80,11 @@ animation:rainbow 1s infinite;
 .close{
   margin: 0px 0px 0px 0px;
 }
+
+a, a:hover{
+  color: #fff7d7;
+  text-decoration: none; /* no underline */
+}
 /*
 @-webkit-keyframes rainbow {
 0% {color: #ff0000;}
