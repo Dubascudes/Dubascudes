@@ -9,8 +9,8 @@ body{
  top:0;
  bottom: 0;
  padding:30px;
- margin-left: 20%;
- margin-right: 20%;
+ margin-left: 28%;
+ margin-right: 10%;
  position: absolute;
 
 }
@@ -48,7 +48,7 @@ animation:rainbow 1s infinite;
 
 .sidenav {
   height: 100%;
-  width: 15%;
+  width: 30%;
   position: fixed;
   z-index: 1;
   top: 0;
