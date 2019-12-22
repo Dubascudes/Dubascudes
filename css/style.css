@@ -5,7 +5,7 @@ body{
 
 .contmainer{
  font-family:sans-serif;
- color: #ffffff;
+ color: #fff7d7;
  top:0;
  bottom: 0;
  padding:30px;
@@ -15,7 +15,7 @@ body{
 
 }
 .rainbow{
-    color:white;
+    color:#fff7d7;
     text-decoration:none;
     font-style:italic;
 
@@ -53,7 +53,7 @@ animation:rainbow 1s infinite;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #fff7d7;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -62,7 +62,7 @@ animation:rainbow 1s infinite;
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #818181;
+  color: #000000;
   display: block;
   border: none;
   background: none;
